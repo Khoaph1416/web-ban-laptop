@@ -1,0 +1,13 @@
+.sp { 
+    height: 250px; 
+    display: flex; align-items: center; 
+    justify-content: center;
+    
+}
+header { position: relative; height: 120px;}
+header > #logo { width: 80px; height: 80px; bottom: 10px; left: 30px; position: absolute;}
+header > #giohang { position: absolute; bottom: 10px; right: 10px; color: yellow} 
+#doitac #data img { width: 150px; height: 150px; border-radius: 50%; border:1px solid black; margin: 5px} 
+nav { height: 60px; }
+nav > a { text-decoration: none; font-size: 1.2em; color: white; margin:5px  }
+nav > a:hover { text-decoration: underline;}
